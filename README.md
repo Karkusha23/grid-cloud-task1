@@ -10,3 +10,6 @@ docker-compose up --build
 ## Requests
 * `curl -X GET "http://localhost:8000/"` - returns string representation of all entries of main relation
 * `curl -X POST "http://localhost:8000/{text}/"` - to insert a new entry in main relation. Replace `{text}` with your own string
+
+![image](https://github.com/user-attachments/assets/add1c2d9-aad7-415d-b92f-54f3ae53ddf7)
+
